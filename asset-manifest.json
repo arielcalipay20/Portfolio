@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.38cdee24.css",
+    "main.js": "/Portfolio/static/js/main.472e135a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/g-bg.jpg": "/Portfolio/static/media/g-bg.8f370571621485924d96.jpg",
+    "static/media/contact.gif": "/Portfolio/static/media/contact.cd34f6c2edad3ae87473.gif",
+    "static/media/qcu.png": "/Portfolio/static/media/qcu.f817e7a9f1cf3a076cd2.png",
+    "static/media/yt.png": "/Portfolio/static/media/yt.8b93392dd6a7288ee964.png",
+    "static/media/weather.png": "/Portfolio/static/media/weather.5d42833cab7f955a62c1.png",
+    "static/media/pharma.png": "/Portfolio/static/media/pharma.1672af96d691458179e4.png",
+    "static/media/br.png": "/Portfolio/static/media/br.8784bd851857b7c01257.png",
+    "static/media/blog.png": "/Portfolio/static/media/blog.01bbaaca2d80f267adf9.png",
+    "static/media/jltc.png": "/Portfolio/static/media/jltc.47f453186a7bfcc6b7bf.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.cafc3bfa3c7f217d9b93.png",
+    "static/media/BR.png": "/Portfolio/static/media/BR.a7dfaf0191ba130a315a.png",
+    "static/media/food.png": "/Portfolio/static/media/food.cdc3c9c20454d79ee807.png",
+    "static/media/cv.png": "/Portfolio/static/media/cv.09ffa293690ab7c2acba.png",
+    "static/media/CV.png": "/Portfolio/static/media/CV.379d568131b442ae38d1.png",
+    "static/media/quiz.png": "/Portfolio/static/media/quiz.dd218df1b7461c20b771.png",
+    "static/media/movie.png": "/Portfolio/static/media/movie.601ab80ecff33f0fe110.png",
+    "static/media/CALIPAY_ARIEL_CV.pdf": "/Portfolio/static/media/CALIPAY_ARIEL_CV.ecd4d1fdbdd626abceab.pdf",
+    "static/media/avatar.png": "/Portfolio/static/media/avatar.d6dfb088639b6373667a.png",
+    "static/media/personal_logo1.png": "/Portfolio/static/media/personal_logo1.c6641d6a0dfdb659f451.png",
+    "index.html": "/Portfolio/index.html",
+    "main.38cdee24.css.map": "/Portfolio/static/css/main.38cdee24.css.map",
+    "main.472e135a.js.map": "/Portfolio/static/js/main.472e135a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38cdee24.css",
+    "static/js/main.472e135a.js"
+  ]
+}
