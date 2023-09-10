@@ -2,8 +2,10 @@ const express = require('express');
 const nodemailer = require('nodemailer');
 const cors = require('cors');
 
+require('dotenv').config();
+
 const app = express();
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3002;
 const app_pass = 'u d x m g r y k t n z y u e z j';
 
 app.use(express.json());
