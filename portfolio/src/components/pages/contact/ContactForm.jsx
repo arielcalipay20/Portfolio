@@ -25,7 +25,7 @@ const ContactForm = (props) => {
     const sendEmail = (event) => {
         event.preventDefault();
 
-        Axios.post('https://ac-portfolio-server1.glitch.me/send-email/', {
+        Axios.post('http://localhost:3001/send-email/', {
             firstName,
             lastName,
             email,
