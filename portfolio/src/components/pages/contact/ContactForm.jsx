@@ -25,7 +25,7 @@ const ContactForm = (props) => {
     const sendEmail = (event) => {
         event.preventDefault();
 
-        Axios.post('https://industrious-polar-lilac.glitch.me/send-email/', {
+        Axios.post('https://stealth-shrouded-jitterbug.glitch.me/send-email/', {
             firstName,
             lastName,
             email,
