@@ -9,8 +9,9 @@ const port = process.env.PORT || 3002;
 app.use(express.json());
 
 const corsOptions = {
-    origin: 'https://arielcalipay20.github.io', // Change this to your frontend app's URL
-    optionsSuccessStatus: 200,
+    origin: 'https://arielcalipay20.github.io/Portfolio/', // Change this to your frontend app's URL
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    optionsSuccessStatus: 204, // Some legacy browsers (IE11, various SmartTVs) choke on 204
 };
 
 app.use(cors(corsOptions));

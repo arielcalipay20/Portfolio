@@ -39,8 +39,11 @@ const ContactForm = (props) => {
                 alert('Error Sending Email');
             }
         }).catch((error) => {
-            console.error('Error: ', error);
+            // Handle Axios errors (e.g., network error, server error)
+            console.error('Error:', error);
+            alert('An error occurred while sending the email.');
         });
+        
     };
 
     const handleChange = (e, changeState) => {
