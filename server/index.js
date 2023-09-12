@@ -4,12 +4,12 @@ const cors = require('cors');
 require('dotenv').config();
 
 const app = express();
-const port = process.env.PORT || 3002;
+const port = process.env.PORT || 3000;
 
 app.use(express.json());
 
 const corsOptions = {
-    origin: 'https://arielcalipay20.github.io/Portfolio/', // Change this to your frontend app's URL
+    origin: 'https://arielcalipay20.github.io', // Change this to your frontend app's URL
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     optionsSuccessStatus: 204, // Some legacy browsers (IE11, various SmartTVs) choke on 204
 };
