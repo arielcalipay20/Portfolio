@@ -2068,7 +2068,6 @@ $thirdFont: 'Ubuntu', sans-serif;
 
       //Home Container
       .home-container {
-        height: 100vh;
 
         .home-flex-container {
           .profile-container {
@@ -2079,11 +2078,6 @@ $thirdFont: 'Ubuntu', sans-serif;
             }
           }
         }
-      }
-
-      //About Container 
-      .about-container {
-        height: 100vh; //
       }
 
       //Project Container
