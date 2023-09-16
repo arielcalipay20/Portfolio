@@ -37,7 +37,7 @@ const NavBar = () => {
                             //Component for all scroll link
                             return (
                                 <li key={key}>
-                                    <Link to={val.id} spy={true} smooth={true} offset={-60} duration={500} onClick={unClicked}>
+                                    <Link to={val.id} spy={true} smooth={true} offset={-70} duration={500} onClick={unClicked}>
                                         {val.Title}
                                     </Link>
                                 </li>

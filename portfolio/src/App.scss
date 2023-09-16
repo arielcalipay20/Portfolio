@@ -75,9 +75,8 @@ $thirdFont: 'Ubuntu', sans-serif;
         top: 0;
         left: 0;
         right: 0;
-        height: 60px;
+        height: 70px;//
         background: $secondaryColor;
-        // opacity: 0.5;
         display: flex;
         flex-direction: row;
         justify-content: space-around;
@@ -90,8 +89,8 @@ $thirdFont: 'Ubuntu', sans-serif;
           place-items: center;
 
           img {
-            width: 60px;
-            height: 50px;
+            width: 70px;//
+            height: 60px;//
             border-radius: 12px;
 
             &:hover {
