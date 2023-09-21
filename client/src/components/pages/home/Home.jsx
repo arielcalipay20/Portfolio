@@ -27,7 +27,7 @@ const Home = () => {
                         <div className='role-container' data-aos="fade-up">
                             <h1 className='role-animated' data-text="Web Developer">Web Developer</h1>
                         </div>
-                        <p className='description-txt' data-aos="fade-up">I am a fresh graduate of Bachelor of Science in Information Technology and a dynamic developer skilled in HTML, CSS, JS, Bootstrap, React.js and with fundamental knowledge in React Native, MongoDB, Node.js, and Express.js. My journey began with creating eye-catching web interfaces using HTML and CSS, then mastering JS for interactivity. Utilizing Bootstrap, I designed adaptive layouts, while React.js empowered me to create energetic single-page applications.</p>
+                        <p className='description-txt' data-aos="fade-up">I am a dynamic developer skilled in HTML, CSS, JS, Bootstrap, React.js and with fundamental knowledge in React Native, MongoDB, Node.js, and Express.js. My journey began with creating eye-catching web interfaces using HTML and CSS, then mastering JS for interactivity. Utilizing Bootstrap, I designed adaptive layouts, while React.js empowered me to create energetic single-page applications.</p>
 
                         <Button href={CV} download={'CV'} data={'Download CV'} />
 
